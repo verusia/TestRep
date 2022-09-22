@@ -1,3 +1,4 @@
-# Turtle_test
+# Тестовое задание
 
-Developed with Unreal Engine 4
+FirstPart - задание по C++  
+SecondPart - задание по UE4.26
